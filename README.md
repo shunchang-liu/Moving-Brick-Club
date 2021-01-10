@@ -1,4 +1,4 @@
-# 转友会
+# 砖友会
 ## Paper Reading Scheduling
 王嘉凯 尹子鑫
 
